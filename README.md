@@ -3,7 +3,7 @@ Onboard-LED des RaspberryPi zero 2 W ansprechen
 
 **Problem:**
 
-Ich habe mehrere RaspberryPi Zero 2 W nebeneinander im Schrank stehen, mit denen ich per SSH verbunden bin. Ich weiß aber gerade nicht, auf welchem RaspberyPi ich mich befinde!
+Ich habe mehrere RaspberryPi Zero 2 W nebeneinander stehen, mit denen ich per SSH verbunden bin. Ich weiß aber gerade nicht, auf welchem RaspberyPi ich mich befinde!
 
 **Lösungsidee:**  
 Ich lasse die onboard-LED blinken.  
